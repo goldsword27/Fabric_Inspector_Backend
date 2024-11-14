@@ -6,13 +6,6 @@ Backend for Cloth Hole Detection using YOLOv8 and FastAPI. This project is desig
 
 - [Overview](#overview)
 - [Features](#features)
-- [Setup](#setup)
-- [Configuration](#configuration)
-- [Running the Application](#running-the-application)
-- [Usage](#usage)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -25,17 +18,3 @@ This FastAPI-based backend service uses a YOLOv8 TFLite model to detect holes in
 - **Results**: Returns detection confidence and positions of detected holes.
 - **API Documentation**: Interactive API documentation with FastAPI's auto-generated Swagger UI.
 
-## Setup
-
-### Prerequisites
-
-- Python 3.8+
-- Git
-- Virtual environment (recommended)
-
-### Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/goldsword27/Fabric_Inspector_Backend.git
-   cd Fabric_Inspector_Backend
